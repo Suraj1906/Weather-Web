@@ -35,18 +35,12 @@
    git clone https://github.com/Suraj1906/Weather-Web.git 
    ```  
 
-2.**Navigate to the project directory:**
 
-```bash 
-  cd weather-app
- ```
-
-
-3. **Open the Project**  
+2. **Open the Project**  
    Open the `index.html` file in your preferred browser. You can do this by double-clicking the file or Alternatively, you can use a local development server such as Live Server in VS Code. 
    
    
-5. **Enjoy!**  
+3. **Enjoy!**  
    Start exploring the app by granting location access or searching for a city.  
 
 ---
